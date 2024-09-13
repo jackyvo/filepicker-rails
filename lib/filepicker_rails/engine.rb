@@ -1,6 +1,6 @@
 require './lib/filepicker_rails/tag'
-require './app/helpers/app/helpers/filepicker_rails/form_helper'
-require './app/helpers/app/helpers/filepicker_rails/application_helper'
+require './app/helpers/filepicker_rails/form_helper'
+require './app/helpers/filepicker_rails/application_helper'
 
 module FilepickerRails
   # @private
